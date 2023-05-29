@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pert9_giant_myklass", "pert
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiWaris_105", "solveMultiWaris_105\solveMultiWaris_105.vcxproj", "{D587BA5F-53F5-451C-8BCC-96A04E745D37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polimorphism", "Polimorphism\Polimorphism.vcxproj", "{DDF54E80-200F-483E-9989-FDAFE9B1F001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D587BA5F-53F5-451C-8BCC-96A04E745D37}.Release|x64.Build.0 = Release|x64
 		{D587BA5F-53F5-451C-8BCC-96A04E745D37}.Release|x86.ActiveCfg = Release|Win32
 		{D587BA5F-53F5-451C-8BCC-96A04E745D37}.Release|x86.Build.0 = Release|Win32
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Debug|x64.ActiveCfg = Debug|x64
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Debug|x64.Build.0 = Debug|x64
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Debug|x86.Build.0 = Debug|Win32
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Release|x64.ActiveCfg = Release|x64
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Release|x64.Build.0 = Release|x64
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Release|x86.ActiveCfg = Release|Win32
+		{DDF54E80-200F-483E-9989-FDAFE9B1F001}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
